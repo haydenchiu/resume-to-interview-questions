@@ -1,0 +1,29 @@
+🔹 **Machine Learning Engineer** | TechCorp | San Francisco, CA (Hybrid)
+
+**About the Role:**
+TechCorp is looking for a **Machine Learning Engineer** to design, build, and deploy cutting-edge ML models for large-scale data applications. You'll work with cross-functional teams to develop scalable AI solutions.
+
+**Responsibilities:**
+- Develop and optimize machine learning models for NLP and recommendation systems.
+- Build and deploy scalable ML pipelines using Python, TensorFlow, and PyTorch.
+- Work closely with data engineers to process large datasets efficiently.
+- Implement and maintain A/B testing frameworks for model performance evaluation.
+- Optimize model performance using feature engineering, hyperparameter tuning, and ensembling techniques.
+
+**Required Qualifications:**
+- 3+ years of experience in Machine Learning, NLP, or Deep Learning.
+- Strong programming skills in **Python** (Pandas, NumPy, Scikit-Learn, PyTorch, TensorFlow).
+- Experience with **SQL, Spark, and big data processing**.
+- Hands-on experience in **MLOps, Docker, Kubernetes, and CI/CD**.
+- Strong understanding of cloud platforms (**AWS, GCP, or Azure**).
+
+**Preferred Qualifications:**
+- Experience in **recommendation systems, fraud detection, or time-series forecasting**.
+- Contributions to open-source ML projects.
+- Strong knowledge of model explainability and responsible AI.
+
+**Perks & Benefits:**
+- Competitive salary & equity options
+- Flexible remote work options
+- Health & wellness benefits
+- Learning & development budget

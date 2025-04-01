@@ -1,0 +1,43 @@
+John Doe
+Email: johndoe@email.com | LinkedIn: linkedin.com/in/johndoe | GitHub: github.com/johndoe
+Location: San Francisco, CA | Phone: (123) 456-7890
+
+🚀 Data Scientist | Machine Learning Engineer
+
+🔹 SUMMARY:
+Results-driven Data Scientist with 5+ years of experience in machine learning, NLP, and big data analytics. Passionate about developing scalable AI solutions that drive business impact.
+
+🔹 SKILLS:
+- Programming: Python (Pandas, NumPy, Scikit-Learn, PyTorch, TensorFlow)
+- Machine Learning: Supervised & Unsupervised Learning, Deep Learning, NLP, Reinforcement Learning
+- Data Engineering: SQL, Spark, ETL Pipelines, Cloud Computing (AWS, GCP)
+- Tools: Docker, Kubernetes, CI/CD, Git, Jupyter, Airflow
+
+🔹 EXPERIENCE:
+**Data Scientist | ABC Tech | Jan 2021 – Present | San Francisco, CA**
+- Built an NLP pipeline for customer sentiment analysis, increasing model accuracy by 20%.
+- Designed a recommendation system that improved user engagement by 35%.
+- Optimized fraud detection models, reducing false positives by 30%.
+
+**Machine Learning Engineer | XYZ AI | Jul 2018 – Dec 2020 | Remote**
+- Developed a deep learning model for image classification with 98% accuracy.
+- Designed a scalable data pipeline processing 50M+ records daily.
+- Implemented A/B testing framework for ML models, improving business KPIs.
+
+🔹 EDUCATION:
+Master of Science in Data Science | University of California, Berkeley | 2018  
+Bachelor of Science in Computer Science | Stanford University | 2016
+
+🔹 CERTIFICATIONS:
+- AWS Certified Machine Learning – Specialty
+- TensorFlow Developer Certification
+
+🔹 PROJECTS:
+- **Fake News Detection**: Built an NLP model detecting fake news with 92% F1-score.
+- **Stock Price Prediction**: Developed a time-series forecasting model using LSTMs.
+
+🔹 PUBLICATIONS:
+- "Advances in NLP for Sentiment Analysis" – Published in AI Journal (2022)
+
+🔹 AWARDS:
+- Best Data Science Project, AI Conference 2021
